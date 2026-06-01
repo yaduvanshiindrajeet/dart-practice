@@ -1,0 +1,9 @@
+{
+  "name": "Dart Practice",
+  "image": "dart:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["Dart-Code.dart-code"]
+    }
+  }
+}
