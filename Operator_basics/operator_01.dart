@@ -97,3 +97,40 @@
 //         print("Person is not eligible for entry:");
 //     }
 // }
+
+
+// Check pass and fail
+// void main()
+// {
+//     int m1 = 40, m2 = 30, m3 = 50;
+
+//     if(m1 < 33 || m2 < 33 || m3 < 33){
+//         print("Fail");
+//     }else{
+//         print("Pass");
+//     }
+// }
+
+
+// not 
+
+// void main()
+// {
+//     bool isRaining = false;
+    
+//     if(!isRaining){
+//         print("Paying Outside");
+//     }else{
+//         print("Stay in home");
+//     }
+// }
+
+// example 2
+void main()
+{
+    bool loggedIn = false;
+
+    if(!loggedIn){
+        print("Please login account");
+    }
+}
